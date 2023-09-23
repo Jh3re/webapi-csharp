@@ -1,0 +1,12 @@
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.csproj.AssemblyReference.cache
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.AssemblyInfoInputs.cache
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.AssemblyInfo.cs
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.csproj.CoreCompileInputs.cache
+/home/vitanova/CURSOS/C#/API REST/Tools/bin/Debug/net7.0/Tools.deps.json
+/home/vitanova/CURSOS/C#/API REST/Tools/bin/Debug/net7.0/Tools.dll
+/home/vitanova/CURSOS/C#/API REST/Tools/bin/Debug/net7.0/Tools.pdb
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.dll
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/refint/Tools.dll
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.pdb
+/home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/ref/Tools.dll

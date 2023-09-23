@@ -1,0 +1,12 @@
+/home/vitanova/CURSOS/C#/API REST/Entities/bin/Debug/net7.0/Entities.deps.json
+/home/vitanova/CURSOS/C#/API REST/Entities/bin/Debug/net7.0/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/Entities/bin/Debug/net7.0/Entities.pdb
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/refint/Entities.dll
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.pdb
+/home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/ref/Entities.dll
