@@ -10,3 +10,14 @@
 /home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/refint/Tools.dll
 /home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/Tools.pdb
 /home/vitanova/CURSOS/C#/API REST/Tools/obj/Debug/net7.0/ref/Tools.dll
+e:\Mis Documentos\FullStack\webapi-csharp\Tools\bin\Debug\net7.0\Tools.deps.json
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\bin\Debug\net7.0\Tools.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\bin\Debug\net7.0\Tools.pdb
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\Tools.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\refint\Tools.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\Tools.pdb
+e:\Mis Documentos\FullStack\webapi-csharp\Tools\obj\Debug\net7.0\ref\Tools.dll

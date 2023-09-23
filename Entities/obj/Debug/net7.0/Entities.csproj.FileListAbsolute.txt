@@ -10,3 +10,14 @@
 /home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/refint/Entities.dll
 /home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/Entities.pdb
 /home/vitanova/CURSOS/C#/API REST/Entities/obj/Debug/net7.0/ref/Entities.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\bin\Debug\net7.0\Entities.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\bin\Debug\net7.0\Entities.pdb
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\Entities.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\Entities.pdb
+E:\Mis Documentos\FullStack\webapi-csharp\Entities\obj\Debug\net7.0\ref\Entities.dll

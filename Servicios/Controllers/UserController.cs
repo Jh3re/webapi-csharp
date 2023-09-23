@@ -105,14 +105,21 @@ namespace Servicios.Controllers
         [HttpPost("loginEncrypted")]
         public async Task<ActionResult<User>> LoginEncrypted(string username, string password)
         {
-            User user = await _userService.GetUserByUsernameAsync(username);
-            if(user == null){
+            try
+            {
+                User user = await _userService.GetUserByUsernameAsync(username);
+                if(user == null){
+                    return Unauthorized();
+                }
+                if(PasswordEncryptor.VerifyPassword(password, user.Contraseña)){
+                    return user;
+                }
                 return Unauthorized();
+            }catch(Exception ex)
+            {
+                return StatusCode(500, "Se ha producido un error interno del servidor: " + ex.Message);
             }
-            if(PasswordEncryptor.VerifyPassword(password, user.Contraseña)){
-                return user;
-            }
-            return Unauthorized();
+            
         }
     }
 }

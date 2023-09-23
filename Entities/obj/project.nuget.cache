@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/rskYdjSZcvuuUAvLBloI8gpWX2la4oKCaZrSHtSoOXTBK6ShkzuxA+TVRbxhUJreIqU5yBhpEJfHVoogNCgQ==",
+  "dgSpecHash": "rlJQhur6lN/4VSmJr0S96nTRFBbldcGtUNquCENAEsAr+S3xLJ9BeHnimmbNUBJ7q3lOOtrNPe2wtbPA/My/kA==",
   "success": true,
-  "projectFilePath": "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj",
+  "projectFilePath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,36 +1,45 @@
 {
   "format": 1,
   "restore": {
-    "/home/vitanova/CURSOS/C#/API REST/LN/LN.csproj": {}
+    "e:\\Mis Documentos\\FullStack\\webapi-csharp\\LN\\LN.csproj": {}
   },
   "projects": {
-    "/home/vitanova/CURSOS/C#/API REST/DAL/DAL.csproj": {
+    "e:\\Mis Documentos\\FullStack\\webapi-csharp\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitanova/CURSOS/C#/API REST/DAL/DAL.csproj",
+        "projectUniqueName": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "/home/vitanova/CURSOS/C#/API REST/DAL/DAL.csproj",
-        "packagesPath": "/home/vitanova/.nuget/packages/",
-        "outputPath": "/home/vitanova/CURSOS/C#/API REST/DAL/obj/",
+        "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/vitanova/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj": {
-                "projectPath": "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj"
+              "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj": {
+                "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj"
               },
-              "/home/vitanova/CURSOS/C#/API REST/Tools/Tools.csproj": {
-                "projectPath": "/home/vitanova/CURSOS/C#/API REST/Tools/Tools.csproj"
+              "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Tools\\Tools.csproj": {
+                "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Tools\\Tools.csproj"
               }
             }
           }
@@ -76,26 +85,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj": {
+    "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj",
+        "projectUniqueName": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj",
-        "packagesPath": "/home/vitanova/.nuget/packages/",
-        "outputPath": "/home/vitanova/CURSOS/C#/API REST/Entities/obj/",
+        "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/vitanova/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -129,37 +147,46 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/vitanova/CURSOS/C#/API REST/LN/LN.csproj": {
+    "e:\\Mis Documentos\\FullStack\\webapi-csharp\\LN\\LN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitanova/CURSOS/C#/API REST/LN/LN.csproj",
+        "projectUniqueName": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\LN\\LN.csproj",
         "projectName": "LN",
-        "projectPath": "/home/vitanova/CURSOS/C#/API REST/LN/LN.csproj",
-        "packagesPath": "/home/vitanova/.nuget/packages/",
-        "outputPath": "/home/vitanova/CURSOS/C#/API REST/LN/obj/",
+        "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\LN\\LN.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\LN\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/vitanova/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/vitanova/CURSOS/C#/API REST/DAL/DAL.csproj": {
-                "projectPath": "/home/vitanova/CURSOS/C#/API REST/DAL/DAL.csproj"
+              "e:\\Mis Documentos\\FullStack\\webapi-csharp\\DAL\\DAL.csproj": {
+                "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\DAL\\DAL.csproj"
               },
-              "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj": {
-                "projectPath": "/home/vitanova/CURSOS/C#/API REST/Entities/Entities.csproj"
+              "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj": {
+                "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -189,26 +216,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/vitanova/CURSOS/C#/API REST/Tools/Tools.csproj": {
+    "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitanova/CURSOS/C#/API REST/Tools/Tools.csproj",
+        "projectUniqueName": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "/home/vitanova/CURSOS/C#/API REST/Tools/Tools.csproj",
-        "packagesPath": "/home/vitanova/.nuget/packages/",
-        "outputPath": "/home/vitanova/CURSOS/C#/API REST/Tools/obj/",
+        "projectPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "e:\\Mis Documentos\\FullStack\\webapi-csharp\\Tools\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/vitanova/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -242,7 +278,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
